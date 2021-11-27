@@ -19,12 +19,12 @@
 ##### This project should work fine both on android and ios, however it has only been tested on android.
 
 ## References.
-### // addcard https://reactnavigation.org/docs/navigation-prop/
+###  addcard: https://reactnavigation.org/docs/navigation-prop/
 
-## // Alert https://reactnative.dev/docs/alert
+##  Alert: https://reactnative.dev/docs/alert
 
-## // https://reactnavigation.org/docs/4.x/stack-navigator/
-## // https://reactnavigation.org/docs/4.x/bottom-tab-navigator/
+## Stack:  https://reactnavigation.org/docs/4.x/stack-navigator/
+## Bottom: Tab https://reactnavigation.org/docs/4.x/bottom-tab-navigator/
 
-## // https://docs.expo.dev/versions/latest/sdk/notifications/
+## Notifications: https://docs.expo.dev/versions/latest/sdk/notifications/
 
