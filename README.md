@@ -23,9 +23,8 @@
 
 ## // Alert https://reactnative.dev/docs/alert
 
-## // Reference https://reactnavigation.org/docs/4.x/stack-navigator/
+## // https://reactnavigation.org/docs/4.x/stack-navigator/
 ## // https://reactnavigation.org/docs/4.x/bottom-tab-navigator/
 
-## // Reference https://docs.expo.dev/versions/latest/sdk/notifications/
-## // Logic for notification has been implemented. Notifications are generated
-## // at a specific time if the user hasn't completed at least one quiz for that day.
+## // https://docs.expo.dev/versions/latest/sdk/notifications/
+
