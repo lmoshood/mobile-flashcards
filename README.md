@@ -28,3 +28,14 @@
 
 ## Notifications: https://docs.expo.dev/versions/latest/sdk/notifications/
 
+
+##### To login and also check if logged  
+## eas login
+## eas whoami 
+
+
+##### To build and deploy to play store or appstore 
+## eas build
+
+##### To build the app into APK  
+## eas build -p android --profile preview

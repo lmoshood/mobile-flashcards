@@ -1,0 +1,26 @@
+{
+  "build": {
+    "preview": {
+      "android": {
+        "buildType": "apk"
+      }
+    },
+    "preview2": {
+      "android": {
+        "gradleCommand": ":app:assembleRelease"
+      }
+    },
+    "preview3": {
+      "developmentClient": true
+    },
+    "production": {}
+  },
+  "expo": {
+    "android": {
+      "package": "com.lmoshood.mobileflashcards"
+    },
+    "name": "mobileflashcards",
+    "slug": "mobileflashcards",
+    "version": "1.1.0"
+  }
+}
